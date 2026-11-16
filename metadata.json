@@ -1,0 +1,6 @@
+{
+  "name": "كاترينج مصر — منيو ونظام كانتين مصنع HA-BE",
+  "description": "القائمة الرسمية المعتمدة ونظام الطلب والدفع لفودافون كاش والراتب — الشركة الوطنية للخدمات اللوجستية | كاترينج مصر لموظفي الشركة الألمانية HA-BE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
